@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Rock Paper Scissors Game</title>
-</head>
 <body>
     <h1>Rock Paper Scissors Game</h1>
     <h2>Introduction</h2>
@@ -42,4 +37,3 @@
       Do CheckOut My Linked Profile <a href ="https://www.linkedin.com/in/akash-navik-38007617a/">Akash Navik</a>
     </p>
 </body>
-</html>
